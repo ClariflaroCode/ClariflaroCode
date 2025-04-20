@@ -2,7 +2,7 @@
 
 ### About me 
 * _I am currently working as a **Professor Assistant**._ 
-* _I am currently studying **Systems Engineering** and **Computer Application Developmen**_.
+* _I am currently studying **Systems Engineering** and **Computer Application Development**_.
 
 
 <!--
