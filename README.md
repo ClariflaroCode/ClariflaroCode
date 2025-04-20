@@ -5,7 +5,7 @@
 * I am currently working as a **Professor Assistant**.
 * I am currently studying **Systems Engineering** and **Computer Application Development**.
 * My personal web page:  [Portfolio](https://clariflarocode.github.io/)
-* Connect with me: [LinkkedIn](https://www.linkedin.com/in/julieta-watts)
+* Connect with me: [LinkedIn](https://www.linkedin.com/in/julieta-watts)
 
 
 <!--
