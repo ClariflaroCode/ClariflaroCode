@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm ClariflaroCode 
+
+About me 
+
+- 🔭I’m currently working as a professor assistant at the university. 
+- 🌱I’m currently learning at the university these careers: System Engineer and technical degree in computer application development. 
 
 <!--
 **ClariflaroCode/ClariflaroCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
