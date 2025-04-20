@@ -2,8 +2,8 @@
 
 About me 
 
-- 🔭I’m currently working as a professor assistant at the university. 
-- 🌱I’m currently learning at the university these careers: System Engineer and technical degree in computer application development. 
+- I am currently working as a professor assistant at the university. 
+- I am currently studying Systems Engineering and Computer Application Development at university.
 
 <!--
 **ClariflaroCode/ClariflaroCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
