@@ -1,8 +1,8 @@
 # Hi, I am ClariflaroCode 
 
 ### About me 
-* I am currently working as a Professor Assistant. 
-* I am currently studying Systems Engineering and Computer Application Development.
+* _I am currently working as a **Professor Assistant**._ 
+* _I am currently studying **Systems Engineering** and **Computer Application Developmen**_.
 
 
 <!--
