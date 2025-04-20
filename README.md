@@ -1,7 +1,6 @@
 # Hi, I am ClariflaroCode 
 
-##About me 
-### Unordered
+### About me 
 * I am currently working as a Professor Assistant. 
 * I am currently studying Systems Engineering and Computer Application Development.
 
