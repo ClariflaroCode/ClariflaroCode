@@ -3,7 +3,7 @@
 About me 
 
 - I am currently working as a Professor Assistant. 
-- I am currently studying Systems Engineering and Computer Application Development at university.
+- I am currently studying Systems Engineering and Computer Application Development.
 
 <!--
 **ClariflaroCode/ClariflaroCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
