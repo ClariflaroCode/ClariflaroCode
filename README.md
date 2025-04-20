@@ -1,8 +1,11 @@
 # Hi, I am ClariflaroCode 
+## Images
 
 ### About me 
-* _I am currently working as a **Professor Assistant**._ 
-* _I am currently studying **Systems Engineering** and **Computer Application Development**_.
+* I am currently working as a **Professor Assistant**.
+* I am currently studying **Systems Engineering** and **Computer Application Development**.
+* My personal web page:  [Portfolio](https://clariflarocode.github.io/)
+* Connect with me: [LinkkedIn](https://www.linkedin.com/in/julieta-watts)
 
 
 <!--
