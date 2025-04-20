@@ -1,4 +1,4 @@
-## Hi there, I'm ClariflaroCode 
+## Hi, I am ClariflaroCode 
 
 About me 
 
